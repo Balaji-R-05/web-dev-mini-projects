@@ -6,7 +6,7 @@ This repo contains my small front-end projects built while learning web developm
 
 | Project Name        | Description                             | Tech Used          |
 |---------------------|-----------------------------------------|---------------------|
-| [Profile Card](./profile-card)       | A simple responsive profile card UI.  | HTML, CSS            |
+| [Profile Card](./portfolio-card)       | A simple responsive profile card UI.  | HTML, CSS            |
 | [Analog Clock](./analog-clock)       | A functional analog clock using JS.   | HTML, CSS, JavaScript |
 | [Registration Form](./registration-form) | A basic styled user registration form. | HTML, CSS            |
 
