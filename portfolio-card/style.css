@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 80%;
+    background-color: white;
+    min-height: 600px;
+    margin: 0 auto;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Left */
+.left {
+    width: 50%;
+    height: 100%;
+    padding: 50px 30px;
+    border-right: 1px solid black;
+}
+
+.left img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+.left h1 {
+    font-size: 3rem;
+    margin-bottom: 30px;
+    padding: 0 30px;
+}
+
+.left p {
+    font-size: 1rem;
+    margin-bottom: 30px;
+    padding: 0 30px;
+    line-height: 1.6;
+}
+
+/* Right */
+.right {
+    width: 50%;
+    padding: 70px 40px;
+}
+
+.right div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    background: #eff7ee;
+    padding: 20px;
+    border-radius: 30px;
+    border: 2px solid transparent;
+    transition: transform 0.3s ease;
+    justify-content: space-between;
+    font-size: 1.1rem;
+    gap: 10px;
+}
+
+.right div:hover {
+    transform: scale(1.1);
+    border: 2px solid #4CAF50;
+}
+
+.right div i {
+    font-size: 1.2rem;
+}
+
+.right a {
+    text-decoration: none;
+    color: black;
+}
+
+.right a:hover {
+    color: #4CAF50;
+}
+
+/* Mobile Responsive */
+@media screen and (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+    }
+
+    .left,
+    .right {
+        width: 100%;
+        text-align: center;
+        padding: 30px 20px;
+    }
+
+    .left h1,
+    .left p {
+        padding: 0;
+    }
+    .right div:hover {
+        transform: scale(1.1);
+        border: 2px solid #4CAF50;
+    }
+}
