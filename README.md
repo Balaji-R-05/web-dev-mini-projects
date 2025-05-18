@@ -5,3 +5,10 @@ This repo contains my small front-end projects built while learning web developm
 - HTML
 - CSS
 - Javascript
+
+## 📁 Projects Included
+
+| Project Name        | Description                                         |
+|---------------------|-----------------------------------------------------|
+| `analog-clock`      | A basic analog clock showing real-time using HTML, CSS, JS.|
+|`cafe menu`          | A simple responsive cafe menu website.               |
