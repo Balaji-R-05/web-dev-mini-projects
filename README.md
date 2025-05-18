@@ -10,6 +10,7 @@ This repo contains my small front-end projects built while learning web developm
 
 | Project Name        | Description                                         |
 |---------------------|-----------------------------------------------------|
-| `analog clock`      | A basic analog clock showing real-time using HTML, CSS, JS.|
-|`cafe menu`          | A simple responsive cafe menu website.              |
-|`rothko painting`    | Painting to understand CSS Box model                |
+| `Analog Clock`      | A basic analog clock showing real-time using HTML, CSS, JS.|
+|`Cafe Menu`          | A simple responsive cafe menu website.              |
+|`Colored Markers`    | A simple webpage that displays colored markers demonstrating layout techniques, box styling, and color application. |
+|`Rothko Painting`    | Painting to understand CSS Box model                |
