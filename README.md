@@ -14,3 +14,4 @@ This repo contains my small front-end projects built while learning web developm
 |`Cafe Menu`          | A simple responsive cafe menu website.              |
 |`Colored Markers`    | A simple webpage that displays colored markers demonstrating layout techniques, box styling, and color application. |
 |`Rothko Painting`    | Painting to understand CSS Box model                |
+|`Photo Gallery`      | A cat photo gallery using flex box                  |
