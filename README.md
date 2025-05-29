@@ -2,15 +2,19 @@
 This repo contains my small front-end projects built while learning web development. Each folder is a standalone project.
 
 ## Tech Stack
+
 - HTML
 - CSS
 - Javascript
+- Tailwindcss
+- Sass
 
 ## 📁 Projects Included
 
 | Project Name        | Description                                         |
 |---------------------|-----------------------------------------------------|
-| `Analog Clock`      | A basic analog clock showing real-time using HTML, CSS, JS.|
+|`Cat Photo App`      | A basic HTML only website for cat lovers | 
+|`Analog Clock`      | A basic analog clock showing real-time using HTML, CSS, JS.|
 |`Cafe Menu`          | A simple responsive cafe menu website.              |
 |`Colored Markers`    | A simple webpage that displays colored markers demonstrating layout techniques, box styling, and color application. |
 |`Rothko Painting`    | Painting to understand CSS Box model                |
@@ -18,6 +22,8 @@ This repo contains my small front-end projects built while learning web developm
 |`Nutrition Label`    | Nutrition label to learn typography                 |
 |`Terrarium`          ||
 |`Profile Card`       ||
+|`Dragon RPG`         | Text based RPG game                                 |
+|`Piano`              | Piano to understand pseudo class                   |
 
 
 ## ⚙️ Running the Projects
