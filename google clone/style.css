@@ -1,0 +1,37 @@
+.container {
+    margin-top: 100px;
+}
+
+.logo {
+    width: 300px;
+    display: block;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#search-text {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 24px;
+    padding: 10px 30px;
+    border: 1px solid black;
+    border-radius: 24px;;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 30px;
+    background: #dfe1e5 ;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 14px;
+}
